@@ -1,1 +1,1 @@
-# JavaScript2
+Lab.6 update
